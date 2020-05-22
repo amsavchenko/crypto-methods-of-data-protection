@@ -1,4 +1,5 @@
 # ЛР №3
+Ссылка на просмотр ноутбука в nbviewer - [здесь](https://nbviewer.jupyter.org/github/amsavchenko/crypto-methods-of-data-protection/blob/master/lab3-block-ciphers/block_ciphers.ipynb).
 
 # Условия
 Оригинал условий - https://github.com/CryptoCourse/CryptoLabs/blob/master/docs/BlockCipherModeImpl.md
